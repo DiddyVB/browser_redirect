@@ -2,7 +2,7 @@ var url = new URL(location.href),
 
 // INSTANCES //
 invidious = 'tube.pathague.com',
-libreddit = 'reddit.invak.id',
+libreddit = 'libreddit.spike.codes/',
 nitter = 'nitter.snopyta.org',
 
 // YouTube | Invidious //
